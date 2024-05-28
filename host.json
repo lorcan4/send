@@ -1,0 +1,38 @@
+{
+  "app_name": {
+    "en": "My Flutter App",
+    "es": "Mi Aplicación Flutter"
+  },
+  "welcome_message": {
+    "en": "Welcome to My Flutter App!",
+    "es": "¡Bienvenido a Mi Aplicación Flutter!"
+  },
+  "login": {
+    "en": "Login",
+    "es": "Iniciar sesión"
+  },
+  "logout": {
+    "en": "Logout",
+    "es": "Cerrar sesión"
+  },
+  "username": {
+    "en": "Username",
+    "es": "Nombre de usuario"
+  },
+  "password": {
+    "en": "Password",
+    "es": "Contraseña"
+  },
+  "submit": {
+    "en": "Submit",
+    "es": "Enviar"
+  },
+  "cancel": {
+    "en": "Cancel",
+    "es": "Cancelar"
+  },
+  "error_message": {
+    "en": "An error has occurred",
+    "es": "Ha ocurrido un error"
+  }
+}
